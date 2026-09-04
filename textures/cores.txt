@@ -1,0 +1,18 @@
+Opção 1: Classic Grid (Ciano e Magenta)
+É o esquema mais icônico. O ciano representa o sistema e o magenta/laranja os intrusos.
+
+Céu (Ciano Neon): 0, 255, 255 (ou um pouco mais escuro: 0, 180, 255)
+
+Chão (Preto com toque de roxo): 20, 0, 40 (Para dar profundidade ao neon do céu)
+
+Opção 2: Dark Synthwave (Roxo e Laranja)
+Dá uma sensação de "pôr do sol" digital.
+
+Céu (Roxo Elétrico): 150, 0, 255
+
+Chão (Laranja Neon): 255, 100, 0
+
+Opção 3: Deep Grid (Verde Matrix/Tron Original)
+Céu (Verde Neon): 57, 255, 20
+
+Chão (Cinza Escuro quase preto): 10, 10, 10

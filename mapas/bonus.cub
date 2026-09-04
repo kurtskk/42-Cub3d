@@ -1,0 +1,15 @@
+NO ./textures/north_bonus.xpm
+SO ./textures/south_bonus.xpm
+WE ./textures/west_bonus.xpm
+EA ./textures/east_bonus.xpm
+
+F 0, 0, 0
+C 0, 40, 80
+
+11111111111
+1X011D111X1
+10000000001
+10000J00001
+10000000001
+1X00N0000X1
+11111111111
